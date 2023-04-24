@@ -1,4 +1,4 @@
-# EXP-0a-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON
+# EXP-01-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON
 
 AIM:  To interface a digital input (push button) and blink and LED upon activation.
 COMPONENTS REQUIRED:
@@ -66,7 +66,7 @@ FIGURE -03
 
 
 PROGRAM: 
-```
+```python
  int buttonState = 0;
 void setup()
 {
