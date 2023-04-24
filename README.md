@@ -50,7 +50,7 @@ PROCEDURE
 
 
 
-CIRCUIT DIAGRAM 
+## CIRCUIT DIAGRAM 
 
 
 
@@ -60,12 +60,8 @@ CIRCUIT DIAGRAM
 
 
 
-FIGURE -03
 
-
-
-
-PROGRAM: 
+## PROGRAM: 
 ```python
  int buttonState = 0;
 void setup()
@@ -89,11 +85,12 @@ void loop()
  
  
 
+## Output of the simulation :
+### Before simulation:
+![Screenshot (42)](https://user-images.githubusercontent.com/119559663/233993459-e7e77376-373e-403d-a949-f500fa99786c.png)
 
+### After simulation:
+![Screenshot (43)](https://user-images.githubusercontent.com/119559663/233993141-29a876aa-7c8e-415f-bd52-fffe15fb5b69.png)
 
-Output of the simulation :
-
-![Screenshot (3)](https://user-images.githubusercontent.com/119559663/233991382-b6ab55ae-dfe5-4541-8b76-5ff808c8003c.png)
-
-
-RESULT :Thus we have made the led blink by interfacing the digital input(push button).
+## RESULT :
+Thus we have made the led blink by interfacing the digital input(push button).
