@@ -81,16 +81,12 @@ void loop()
 }
 ```
  
- 
- 
- 
-
 ## Output of the simulation :
-### Before simulation:
-![Screenshot (42)](https://user-images.githubusercontent.com/119559663/233993459-e7e77376-373e-403d-a949-f500fa99786c.png)
+### Before Simulation
+![Screenshot 2023-04-24 174245](https://user-images.githubusercontent.com/118704873/233994881-052bb696-1bcb-492d-b00a-2322f7ff7a40.png)
 
-### After simulation:
-![Screenshot (43)](https://user-images.githubusercontent.com/119559663/233993141-29a876aa-7c8e-415f-bd52-fffe15fb5b69.png)
+### After Simulation
 
+![Screenshot 2023-04-24 174452](https://user-images.githubusercontent.com/118704873/233994931-b96101b9-765a-4238-896c-abf434489600.png)
 ## RESULT :
 Thus we have made the led blink by interfacing the digital input(push button).
